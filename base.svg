@@ -2,11 +2,9 @@
 <svg version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 750 630.5" style="enable-background:new 0 0 750 630.5;" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient gradientUnits="userSpaceOnUse" x1="374.91" y1="157.233" x2="374.91" y2="630.3" id="gradient-2" gradientTransform="matrix(0.955331, 0, 0, 0.955331, 16.747034, 10.661453)">
-      <stop offset="0" style="stop-color: rgb(91, 206, 250);"/>
-      <stop offset="0.365" style="stop-color: rgb(245, 169, 184);"/>
-      <stop offset="0.516" style="stop-color: rgb(255, 255, 255);"/>
-      <stop offset="0.673" style="stop-color: rgb(245, 169, 184);"/>
-      <stop offset="1" style="stop-color: rgb(91, 206, 250);"/>
+      <stop offset="0" style="stop-color: rgb(43, 43, 115);"/>
+      <stop offset="0.516" style="stop-color: rgb(144, 184, 247);"/>
+      <stop offset="1" style="stop-color: rgb(56, 188, 255);"/>
     </linearGradient>
   </defs>
   <style type="text/css">
@@ -162,9 +160,9 @@
       <g>
         <path class="st29" d="M446.2,280.4c0,8.9-7.2,16.1-16.1,16.1c-8.9,0-16.1-7.2-16.1-16.1c0-8.9,7.2-16.1,16.1-16.1 C439,264.3,446.2,271.5,446.2,280.4z"/>
         <g>
-          <rect x="422.9" y="275.8" class="st30" width="14.4" height="1.6" style="fill: rgb(255, 135, 175);"/>
-          <rect x="422.9" y="279.7" class="st30" width="14.4" height="1.6" style="fill: rgb(255, 135, 175);"/>
-          <rect x="422.9" y="283.5" class="st30" width="14.4" height="1.5" style="fill: rgb(255, 135, 175);"/>
+          <rect x="422.9" y="275.8" class="st30" width="14.4" height="1.6" style="fill: rgb(53, 111, 162);"/>
+          <rect x="422.9" y="279.7" class="st30" width="14.4" height="1.6" style="fill: rgb(53, 111, 162);"/>
+          <rect x="422.9" y="283.5" class="st30" width="14.4" height="1.5" style="fill: rgb(53, 111, 162);"/>
         </g>
       </g>
       <g id="Menu_Pressed" class="st3">
@@ -183,8 +181,8 @@
       <g>
         <path class="st29" d="M338.2,280.4c0,8.9-7.2,16.1-16.1,16.1c-8.9,0-16.1-7.2-16.1-16.1c0-8.9,7.2-16.1,16.1-16.1 C331,264.3,338.2,271.5,338.2,280.4z"/>
         <g>
-          <polygon class="st30" points="319.6,280.3 316.6,280.3 316.6,276.5 322.1,276.5 322.1,277.8 323.9,277.8 323.9,274.8 315,274.8 &#10;&#9;&#9;&#9;&#9;&#9;315,282.2 319.6,282.2 &#9;&#9;&#9;&#9;" style="fill: rgb(255, 135, 175);"/>
-          <path class="st30" d="M320.4,278.4v7.6h9v-7.6H320.4z M327.5,284.2h-5.5v-3.9h5.5V284.2z" style="fill: rgb(255, 135, 175);"/>
+          <polygon class="st30" points="319.6,280.3 316.6,280.3 316.6,276.5 322.1,276.5 322.1,277.8 323.9,277.8 323.9,274.8 315,274.8 &#10;&#9;&#9;&#9;&#9;&#9;315,282.2 319.6,282.2 &#9;&#9;&#9;&#9;" style="fill: rgb(53, 111, 162);"/>
+          <path class="st30" d="M320.4,278.4v7.6h9v-7.6H320.4z M327.5,284.2h-5.5v-3.9h5.5V284.2z" style="fill: rgb(53, 111, 162);"/>
         </g>
       </g>
     </g>
